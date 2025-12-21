@@ -48,5 +48,65 @@ This project demonstrates the use of **Agentic AI workflows** to connect real-ti
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/22k91a05p1/spotify-roast-agent.git](https://github.com/22k91a05p1/spotify-roast-agent.git)
+git clone [https://github.com/22k91a05p1/spotify-roast-agent.git]([https://github.com/22k91a05p1e/spotify-roast-agent.git](https://github.com/22k91a05p1/spotify-roast-agent))
 cd spotify-roast-agent
+
+
+ 2. Install Dependencies
+Bash
+
+pip install -r requirements.txt
+3. Configure Environment Variables
+Create a .env file in the root directory and add your API keys:
+
+Ini, TOML
+
+SPOTIPY_CLIENT_ID="your_spotify_client_id"
+SPOTIPY_CLIENT_SECRET="your_spotify_client_secret"
+SPOTIPY_REDIRECT_URI="http://localhost:8501"  # Or your deployed URL
+GROQ_API_KEY="your_groq_api_key"
+Note: To get these keys, you must create an app on the Spotify Developer Dashboard and an API key on Groq Cloud.
+
+4. Run the App Locally
+Bash
+
+streamlit run app.py
+📸 Screenshots
+(<img width="1920" height="1340" alt="spotifyRoast" src="https://github.com/user-attachments/assets/2f386b42-406d-41da-b8b1-5bd86b7709d5" />
+
+
+"Oh joy, a music connoisseur who thinks Justin Bieber is the epitome of artistic genius..."
+
+🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+Built with 💻 and ☕ by [Your Name]
+
+
+### **How to use this:**
+1.  **Copy** the code block above.
+2.  In VS Code, create a new file named **`README.md`**.
+3.  **Paste** the code.
+4.  **Edit the placeholders:**
+    * Change `(https://spotify-roast-sairam3639.streamlit.app/)`.
+    * Change `(https://github.com/22k91a05p1/spotify-roast-agent).
+    * Change `Sairam tupakula` at the bottom to **Sairam Tupakula**.
+5.  **Push it to GitHub:**
+    ```bash
+    git add README.md
+    git commit -m "Add professional README"
+    git push
+    ```
