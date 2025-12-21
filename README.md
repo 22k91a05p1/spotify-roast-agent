@@ -97,14 +97,11 @@ Built with 💻 and ☕ by [Your Name]
 
 
 ### **How to use this:**
-1.  **Copy** the code block above.
-2.  In VS Code, create a new file named **`README.md`**.
-3.  **Paste** the code.
-4.  **Edit the placeholders:**
+
     * Change `(https://spotify-roast-sairam3639.streamlit.app/)`.
     * Change `(https://github.com/22k91a05p1/spotify-roast-agent).
     * Change `Sairam tupakula` at the bottom to **Sairam Tupakula**.
-5.  **Push it to GitHub:**
+    **Push it to GitHub:**
     ```bash
     git add README.md
     git commit -m "Add professional README"
