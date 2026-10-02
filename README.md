@@ -93,7 +93,7 @@ Open a Pull Request
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Built with 💻 and ☕ by [Your Name]
+Built with 💻 and ☕ by Sairam
 
 
 ### **How to use this:**
